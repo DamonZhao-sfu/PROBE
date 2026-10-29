@@ -25,8 +25,7 @@ export JAVA_HOME=/path/to/jdk11
 export SPARK_LOCAL_IP=127.0.0.1
 ```
 
-[requirements.client.lock.txt](requirements.client.lock.txt) records the resolved
-client packages. CPU algorithm tests need only `requirements.core.txt`.
+
 
 ## Data and models
 
